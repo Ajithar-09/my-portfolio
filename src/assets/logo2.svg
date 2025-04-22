@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="111"
+   height="48"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="85341ebe-516f-4afa-aaa6-10663934bcf4.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     class="layer"
+     id="g1">
+    <title
+       id="title1">Layer 1</title>
+    <path
+       d="m0,48l0,-16.32c0,-0.71 0.18,-1.36 0.53,-1.94c0.36,-0.6 0.83,-1.08 1.41,-1.43c0.6,-0.36 1.25,-0.54 1.96,-0.54l12.39,0c0.71,0 1.37,0.18 1.97,0.54c0.6,0.35 1.08,0.83 1.43,1.43c0.36,0.58 0.54,1.23 0.54,1.94l0,16.32l-3.74,0l0,-6.8l-12.78,0l0,6.8l-3.71,0zm3.71,-10.51l12.78,0l0,-5.64c0,-0.1 -0.04,-0.17 -0.11,-0.23c-0.08,-0.07 -0.16,-0.11 -0.26,-0.11l-12.07,0c-0.1,0 -0.18,0.04 -0.26,0.11c-0.05,0.06 -0.08,0.13 -0.08,0.23l0,5.64z"
+       fill="white"
+       id="svg_1"
+       transform="matrix(1 0 0 1 0 0)" />
+    <path
+       d="m30.77,48l0,-7.58l-9.33,-12.65l4.39,0l6.82,8.57l6.75,-8.57l4.46,0l-9.35,12.67l0,7.56l-3.74,0z"
+       fill="white"
+       id="svg_2"
+       transform="matrix(1 0 0 1 0 0)" />
+    <path
+       d="m45.59,48l0,-20.23l16.3,0c0.71,0 1.36,0.18 1.96,0.54c0.6,0.35 1.08,0.83 1.44,1.43c0.35,0.58 0.53,1.23 0.53,1.94l0,12.42c0,0.71 -0.18,1.36 -0.53,1.96c-0.36,0.58 -0.84,1.05 -1.44,1.41c-0.6,0.35 -1.25,0.53 -1.96,0.53l-16.3,0zm4.02,-3.74l12.11,0c0.09,0 0.18,-0.02 0.25,-0.08c0.08,-0.08 0.11,-0.16 0.11,-0.25l0,-12.08c0,-0.1 -0.03,-0.17 -0.11,-0.23c-0.07,-0.07 -0.16,-0.11 -0.25,-0.11l-12.11,0c-0.09,0 -0.18,0.04 -0.25,0.11c-0.06,0.06 -0.09,0.13 -0.09,0.23l0,12.08c0,0.09 0.03,0.17 0.09,0.25c0.07,0.06 0.16,0.08 0.25,0.08z"
+       fill="white"
+       id="svg_3" />
+    <text
+       fill="#ff00ff"
+       font-family="Helvetica"
+       font-size="24"
+       font-weight="bold"
+       id="svg_10"
+       stroke-width="0"
+       style="cursor: move;"
+       text-anchor="middle"
+       transform="matrix(1 0 0 1 0 0) matrix(0.856638 0 0 1 -5.37757 0)"
+       x="47.18"
+       xml:space="preserve"
+       y="23">SUDO</text>
+    <text
+       fill="#ffffff"
+       font-family="Cursive"
+       font-size="24"
+       font-weight="bold"
+       id="svg_11"
+       stroke-width="0"
+       style="cursor: move;"
+       text-anchor="middle"
+       x="58.5"
+       xml:space="preserve"
+       y="38">ELA</text>
+  </g>
+</svg>
